@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+# PillFYI Embed Widget
+# Main site: https://pillfyi.com
+# Widget docs: https://widget.pillfyi.com
+# npm: https://www.npmjs.com/package/pillfyi-embed
